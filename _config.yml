@@ -51,7 +51,7 @@ minima:
   social_links:
     - { platform: github, user_url: "https://github.com/SladeGetz" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/austin-getz/" }
-    - { platform: routinehub, user_url: "testing" }
+    - { platform: routinehub, user_url: "https://routinehub.co/user/SladeGetz" }
 
   header_pages:
     - about.markdown
